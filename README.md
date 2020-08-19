@@ -30,9 +30,9 @@
 
 <a id="Instalacao"></a>
 # 📥 INSTALAÇÃO
-## 📋 ✔️ PRÉ REQUISITOS
-<a id="Pre-requisitos"></a>
 
+<a id="Pre-requisitos"></a>
+## 📋 ✔️ PRÉ REQUISITOS
 ➡️ [Node.js](https://nodejs.org/en/) 
 
 ➡️ Gerenciador de pacotes [NPM](https://nodejs.org/en/download/package-manager/) ou [Yarn](https://yarnpkg.com/getting-started/install#global-install) 
@@ -40,7 +40,7 @@
 ➡️ [Expo](https://expo.io/learn) e **recomendável** aplicativo para celular [Android](https://play.google.com/store/apps/details?id=host.exp.exponent) ou [iOS](https://apps.apple.com/br/app/expo-client/id982107779)
 
 ➡️ [Git](https://git-scm.com) é _opcional_ de se ter instalado na máquina. O projeto também pode ser baixado diretamente como `.zip`
-<br>
+<br><br>
 
 <a id="Rodando-a-aplicacao"></a>
 # ⚙️ RODANDO A APLICAÇÃO
@@ -93,15 +93,15 @@ $ npm start
 ## 👉 [MIT](./LICENSE.md)
 _Uma licença permissiva curta e simples com condições que exigem apenas a preservação de direitos autorais e avisos de licença. Obras licenciadas, modificações e obras maiores podem ser distribuídas em termos diferentes e sem código-fonte._
 
-**Permissões**
- ✔️ Uso comercial
- ✔️ Modificação
- ✔️ Distribuição
+**Permissões** <br>
+ ✔️ Uso comercial | 
+ ✔️ Modificação | 
+ ✔️ Distribuição | 
  ✔️ Uso privado
 
-**Limitações**
- ❌ Responsabilidade
+**Limitações** <br>
+ ❌ Responsabilidade | 
  ❌ Garantia
 
-**Condições**
+**Condições** <br>
  ❗ Licença e aviso de direitos autorais
