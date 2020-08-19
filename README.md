@@ -5,8 +5,6 @@
 <b> NLW 1 | Rocketseat | Trilha Booster</b>
 </h3>
 
-<br>
-
 # 📑 SUMÁRIO
 * [Sobre](#Sobre)
 * [Apresentação](#Apresentacao)
@@ -16,22 +14,22 @@
 * [Tecnologias](#Tecnologias)
 * [Licença](#Licenca)
 
-<br>
-
 # ✏️ SOBRE
+<a id="Sobre"></a>
+
 <p>Projeto voltado para fins ecológicos: informar pontos de coleta na região e quais delas aceitam descarte de resíduos/coleta de materiais como baterias, óleo de cozinha, resíduos orgânicos, etc.</p>
 
-<br>
-
 # 💻📱 APRESENTAÇÃO
+<a id="Apresentacao"></a>
 <h2 align="center">
   <img alt="Telas iniciais web e mobile" src="https://live.staticflickr.com/65535/50180580003_7682911aab_h.jpg">
 </h2>
 
-<br>
-
 # 📥 INSTALAÇÃO
+<a id="Instalacao"></a>
+
 ## 📋 ✔️ PRÉ REQUISITOS
+<a id="Pre-requisitos"></a>
 
 ➡️ [Node.js](https://nodejs.org/en/) 
 
@@ -41,9 +39,8 @@
 
 ➡️ [Git](https://git-scm.com) é _opcional_ de se ter instalado na máquina. O projeto também pode ser baixado diretamente como `.zip`
 
-<br>
-
 # ⚙️ RODANDO A APLICAÇÃO
+<a id="Rodando-a-aplicacao"></a>
 
 ```bash
 # Clone o repositório
@@ -74,9 +71,8 @@ $ cd mobile
 $ npm start
 ```
 
-<br>
-
 # 🌟 TECNOLOGIAS
+<a id="Tecnologias"></a>
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Git](https://git-scm.com)
 - [Node.js](https://nodejs.org/en/)
@@ -87,25 +83,20 @@ $ npm start
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/learn)
 
-<br>
-
 # 🔓 LICENÇA
+<a id="Licenca"></a>
 ## 👉 [MIT](./LICENSE.md)
 _Uma licença permissiva curta e simples com condições que exigem apenas a preservação de direitos autorais e avisos de licença. Obras licenciadas, modificações e obras maiores podem ser distribuídas em termos diferentes e sem código-fonte._
-
-<br>
 
 **Permissões** <br>
  ✔️ Uso comercial <br>
  ✔️ Modificação <br>
  ✔️ Distribuição <br>
  ✔️ Uso privado <br>
-<br>
 
 **Limitações** <br>
  ❌ Responsabilidade <br>
  ❌ Garantia <br>
-<br>
 
 **Condições** <br>
  ❗ Licença e aviso de direitos autorais
